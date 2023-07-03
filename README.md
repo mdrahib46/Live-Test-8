@@ -2,10 +2,10 @@
 
 This is a simple Flutter app that displays a list of contacts and allows the user to view contact details by tapping on a contact.
 
-## Screenshots
-# Image-1
+# Screenshots
+### Image-1
 ![Screenshot_8](https://github.com/mdrahib46/Live-Test-8/assets/57681390/1ba886a5-e27b-477c-a88f-4284863869a2)
-# Image-2
+### Image-2
 ![Screenshot_9](https://github.com/mdrahib46/Live-Test-8/assets/57681390/923aee0a-ca76-4d5e-89ba-a0d9f487b0e9)
 
 ## Features
